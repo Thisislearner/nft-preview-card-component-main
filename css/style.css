@@ -1,0 +1,90 @@
+/* font-family: 'Rancho', cursive;
+font-family: 'Roboto', sans-serif; */
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  text-align: center;
+}
+
+.parentContainer {
+  background-color: hsl(216, 50%, 16%);
+  width: 290px;
+  border-radius: 5px;
+  padding: 15px;
+  text-align: center;
+  margin: 6% auto;
+}
+
+.equilibrium {
+  width: 250px;
+  display: inline-block;
+  border-radius: inherit;
+}
+
+.heading {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  margin: 15px 8px;
+  color: #fff;
+  text-align: left;
+}
+
+.para {
+  color: hsl(215, 51%, 70%);
+  font-size: 16px;
+  text-align: left;
+}
+
+.amountAndDay {
+  display: flex;
+  margin: 20px 0;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.point {
+  color: hsl(178, 100%, 50%);
+}
+
+.days {
+  color: hsl(215, 51%, 70%);
+}
+
+.hr {
+  width: 100%;
+  height: 1px;
+  background-color: hsl(215, 51%, 70%);
+  margin-bottom: 10px;
+}
+
+.creatorSection {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.avatar {
+  width: 25px;
+  margin-right: 15px;
+  border-radius: 50%;
+  border: 1px solid #fff;
+}
+
+.creatorPara {
+  color: hsl(215, 51%, 70%);
+}
+
+.creatorName {
+  color: #fff;
+}
+
+.attribution {
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
