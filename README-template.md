@@ -26,8 +26,8 @@ it is only the desktop preview.
 
 ### Links
 
-- Solution URL: [github link for the solution](https://your-solution-url.com)
-- Live Site URL: [github website link](https://your-live-site-url.com)
+- Solution URL: [github link for the solution](https://github.com/Thisislearner/nft-preview-card-component-main)
+- Live Site URL: [github website link](https://thisislearner.github.io/nft-preview-card-component-main/)
 
 1. please note that github website is a free website.
 2. This site may or may not be visible in future. That depends on github policies.
